@@ -1,0 +1,24 @@
+.CatalagoProduto{
+    width: 25%;
+    border: solid 5px white;
+}
+
+.CatalagoProduto a {
+    color:  dimgray;
+}
+
+.cabecario{
+    color: white;
+    background-color: black;
+    margin: 0;
+    padding: 5px;
+}
+
+.cabecario2{
+    background-color: dimgray;
+    color: aliceblue;
+}
+
+td{
+    color: dimgray;
+}
